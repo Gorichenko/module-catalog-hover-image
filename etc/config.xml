@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <void_hover_image_catalog>
+            <general>
+                <enabled>0</enabled>
+                <module_name>Catalog Hover Image</module_name>
+            </general>
+        </void_hover_image_catalog>
+    </default>
+</config>
